@@ -8,6 +8,7 @@ iOS och Android
 ![qfield_android](https://github.com/FarbGeo/QField/assets/151673822/37c2106f-0431-40b7-a386-4c71d93dadbe)
 
 ## Enkelt Testprojekt
-![qfield_testprojekt](https://github.com/FarbGeo/QField/assets/151673822/c005341f-1042-4418-a49e-641282df9066)
+![qfield_testprojekt](https://github.com/FarbGeo/QField/assets/151673822/cd65875f-4749-43a8-ada3-d421675c88d6)
+
 
 Testprojektet kan användas för att samla in punkter, linjer och ytor. Det går att generera en PDF direkt i den mobila enheten, som sedan kan mailas eller föras över på annat sätt till en mottagare.
