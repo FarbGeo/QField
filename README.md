@@ -10,5 +10,6 @@ iOS och Android
 ## Enkelt Testprojekt
 ![qfield_testprojekt](https://github.com/FarbGeo/QField/assets/151673822/cd65875f-4749-43a8-ada3-d421675c88d6)
 
+_På iOS lägger man till projektet i QField med en URL (https://raw.githubusercontent.com/FarbGeo/QField/main/EnkelRek.zip). Kopiera länken i QR koden, eller skriv in den manuellt._
 
 Testprojektet kan användas för att samla in punkter, linjer och ytor. Det går att generera en PDF direkt i den mobila enheten, som sedan kan mailas eller föras över på annat sätt till en mottagare.
