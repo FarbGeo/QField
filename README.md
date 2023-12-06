@@ -23,6 +23,6 @@ Testprojektet kan användas för att samla in punkter, linjer och ytor. Det går
 
 ![qfield_markhantering_exempel](https://github.com/FarbGeo/QField/assets/151673822/0b85197d-dd96-4c43-ba93-b72f9542784e) 
 
-_På iOS lägger man till projektet med URL (https://github.com/FarbGeo/QField/raw/main/%C3%96vaMark.zip). Använd QR koden eller länken manuellt._
+_På iOS lägger man till projektet med URL (https://github.com/FarbGeo/QField/raw/main/ÖvaMark.zip). Använd QR koden eller länken manuellt._
 
 Detta projekt ger exempel på hur man kan registrera områden för viss verksamhet efter samverkan med markägare. Därefter kan man visitera området och registrera sådant som behöver regleras.
