@@ -8,8 +8,21 @@ iOS och Android (Notera att Android är enklare att hantera när det gäller imp
 ![qfield_android](https://github.com/FarbGeo/QField/assets/151673822/37c2106f-0431-40b7-a386-4c71d93dadbe)
 
 ## Enkelt Testprojekt
+
+![Skärmbild 2023-12-06 123710](https://github.com/FarbGeo/QField/assets/151673822/4fa4e2b8-56cc-4ca4-984d-2b4fdcab2621)
+
 ![qfield_testprojekt](https://github.com/FarbGeo/QField/assets/151673822/cd65875f-4749-43a8-ada3-d421675c88d6)
 
 _På iOS lägger man till projektet i QField med en URL (https://raw.githubusercontent.com/FarbGeo/QField/main/EnkelRek.zip). Använd QR koden eller länken manuellt._
 
 Testprojektet kan användas för att samla in punkter, linjer och ytor. Det går att generera en PDF direkt i den mobila enheten, som sedan kan mailas eller föras över på annat sätt till en mottagare.
+
+## Markhantering
+
+![Skärmbild 2023-12-06 122810](https://github.com/FarbGeo/QField/assets/151673822/28ce915b-2a1e-4a0c-b9bf-1db0382a99ae)
+
+![qfield_markhantering_exempel](https://github.com/FarbGeo/QField/assets/151673822/0b85197d-dd96-4c43-ba93-b72f9542784e) 
+
+_På iOS lägger man till projektet med URL (https://github.com/FarbGeo/QField/raw/main/%C3%96vaMark.zip). Använd QR koden eller länken manuellt._
+
+Detta projekt ger exempel på hur man kan registrera områden för viss verksamhet efter samverkan med markägare. Därefter kan man visitera området och registrera sådant som behöver regleras.
