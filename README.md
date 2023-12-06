@@ -26,3 +26,11 @@ Testprojektet kan användas för att samla in punkter, linjer och ytor. Det går
 _På iOS lägger man till projektet med URL (https://github.com/FarbGeo/QField/raw/main/ÖvaMark.zip). Använd QR koden eller länken manuellt._
 
 Detta projekt ger exempel på hur man kan registrera områden för viss verksamhet efter samverkan med markägare. Därefter kan man visitera området och registrera sådant som behöver regleras.
+
+## Spaningsrapport 7s
+
+![QField_7s_exempel](https://github.com/FarbGeo/QField/assets/151673822/08fa320f-a4d0-4207-9138-4043f10f6d04)
+
+_På iOS används sökvägen (https://github.com/FarbGeo/QField/raw/main/7s.zip) medan Android kan lägga till via sökväg eller QR kod._
+
+Detta projekt är ett mycket enkelt exempel på hur ett formulär för standardiserade spaningsrapporter kan lagras i karta och sedan generera utskrift/export direkt i appen.
